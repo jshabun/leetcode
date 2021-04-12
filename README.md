@@ -5,3 +5,8 @@
 **LeetCode Learn:**
 * Linked Lists
 
+**LeetCode Easy:**
+
+**LeetCode Medium:**
+
+**LeetCode Hard:**
