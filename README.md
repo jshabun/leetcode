@@ -6,7 +6,7 @@
 - [ ] Linked Lists
 
 **LeetCode Easy:**
-- [x] [Two Sum](leetcode-learn/linked-list/singly-linked-list.cpp)
+- [x] [Two Sum](https://github.com/jshabun/leetcode/tree/main/leetcode-problems/two-sum)
 - [ ] Add Two Numbers
 
 **LeetCode Medium:**
